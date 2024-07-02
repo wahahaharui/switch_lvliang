@@ -1,0 +1,9 @@
+load_zone,fuel,period,fuel_cost
+inside_lvliang,Coal,2020,4.57
+outside_lvliang,Coal,2020,45.7
+inside_lvliang,Coal,2025,4.57
+outside_lvliang,Coal,2025,45.7
+inside_lvliang,Coal,2030,4.57
+outside_lvliang,Coal,2030,45.7
+inside_lvliang,Coal,2035,4.57
+outside_lvliang,Coal,2035,45.7
