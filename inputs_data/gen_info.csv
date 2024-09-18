@@ -20,7 +20,7 @@ N-Residential_PV,Residential_PV,inside_lvliang,0,1.5,.,0,20,0,0,0.02,1,0,0,Solar
 N-Commercial_PV,Commercial_PV,inside_lvliang,0,2,.,0,20,0,0,0.02,1,0,0,Solar,.,.,.,.,.
 N-Central_PV-1,Central_PV,inside_lvliang,51272,3,.,0,20,0,0,0.02,1,0,0,Solar,.,.,.,.,.
 N-Central_PV-2,Central_PV,inside_lvliang,101661,2,.,0,20,0,0,0.02,1,0,0,Solar,.,.,.,.,.
-N-Wind-1,Wind,inside_lvliang,71602,4,.,0,30,0,0.05,0.006,1,0,0,Wind,.,.,.,.,.
+N-Wind-1,Wind,inside_lvliang,71602,.,.,0,30,0,0.05,0.006,1,0,0,Wind,.,.,.,.,.
 N-Wind-2,Wind,inside_lvliang,80259,1,.,0,30,0,0.05,0.006,1,0,0,Wind,.,.,.,.,.
 C-Residential_PV,Residential_PV,inside_lvliang,0,0.5,.,0,20,0,0,0.02,1,0,0,Solar,.,.,.,.,.
 C-Commercial_PV,Commercial_PV,inside_lvliang,0,0.7,.,0,20,0,0,0.02,1,0,0,Solar,.,.,.,.,.
