@@ -1,0 +1,5 @@
+TRANSMISSION_LINE,PERIOD,trans_lz1,trans_lz2,trans_dbid,trans_length_km,trans_efficiency,trans_derating_factor,TxCapacityNameplate,TxCapacityNameplateAvailable,TotalAnnualCost
+I-O,2020,inside_lvliang,outside_lvliang,I-O,100,0.96,1,1111.4125874531944,1111.4125874531944,13825186.346118487
+I-O,2025,inside_lvliang,outside_lvliang,I-O,100,0.96,1,1111.4125874531944,1111.4125874531944,13825186.346118487
+I-O,2030,inside_lvliang,outside_lvliang,I-O,100,0.96,1,1111.4125874531944,1111.4125874531944,13825186.346118487
+I-O,2035,inside_lvliang,outside_lvliang,I-O,100,0.96,1,1111.4125874531944,1111.4125874531944,13825186.346118487

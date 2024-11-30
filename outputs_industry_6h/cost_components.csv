@@ -1,0 +1,10 @@
+component,npv_cost
+CogenFixedCost,1602933526.833104
+EmissionsCosts,0
+FuelCostsPerTP,12065586104.00916
+GenVariableOMCostsInTP,126533107.7405354
+HydrogenFixedCostAnnual,329963.4364953815
+HydrogenVariableCost,0
+LocalTDFixedCosts,3233435188.5902
+TotalGenFixedCosts,6644509879.946503
+TxFixedCosts,171542392.8078699
