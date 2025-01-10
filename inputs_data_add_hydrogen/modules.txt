@@ -21,3 +21,4 @@ cogen
 study_modules.hydrogen_supply
 study_modules.hydrogen_export
 #study_modules.gen_retrofits_with_retirement
+switch_model.hawaii.save_results

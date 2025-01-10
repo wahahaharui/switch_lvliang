@@ -15,3 +15,4 @@ switch_model.transmission.transport.build
 switch_model.transmission.transport.dispatch
 switch_model.policies.carbon_policies
 cogen
+switch_model.hawaii.save_results

@@ -1,0 +1,9 @@
+load_zone,period,Coal,Solar,Wind,hydro,fuel cells
+inside_lvliang,2020,3570.0,1046.4562499480003,1532.15500009,0,0
+inside_lvliang,2025,3935.0,1046.4562499480003,1532.15500009,0,0
+inside_lvliang,2030,3935.0,1046.4562499480003,1532.15500009,0,0
+inside_lvliang,2035,3800.0,1046.4562499480003,1532.15500009,0,0
+outside_lvliang,2020,0.0,0,0,0,0
+outside_lvliang,2025,0.0,0,0,0,0
+outside_lvliang,2030,0.0,0,0,0,0
+outside_lvliang,2035,0.0,0,0,0,0

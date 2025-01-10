@@ -18,4 +18,5 @@ cogen
 study_modules.hydrogen_supply
 study_modules.hydrogen_export
 #switch_model.balancing.demand_response.simple
-simple_industry_2
+simple_industry_3
+switch_model.hawaii.save_results

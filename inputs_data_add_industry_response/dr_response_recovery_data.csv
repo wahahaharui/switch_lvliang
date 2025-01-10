@@ -1,4 +1,4 @@
-LOAD_ZONE,TIMEPOINT,response_time,recover_time
+LOAD_ZONE,TIMEPOINT,response_time,recovery_time
 inside_lvliang,1,1,2
 inside_lvliang,2,1,2
 inside_lvliang,3,1,2
